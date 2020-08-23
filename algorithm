@@ -1,0 +1,17 @@
+Step 1:Start Grade
+Step 2:Input first subject marks as A
+Step 3: Input second subject marks as B
+Step 4: Input third subject marks as C
+Step 5: Input fourth subject marks as D
+Step 6:p=(a+b+c+d)/400*100
+Step 7:if(p&gt;=70):
+print(&#39;A+ Grade&#39;)
+if(p&gt;=60 and p&lt;70):
+print(&#39;A Grade&#39;)
+if(p&gt;=50 and p&lt;60):
+print(&#39;B Grade&#39;)
+if(p&gt;=40 and p&lt;50):
+print(&#39;C Grade&#39;)
+if(p&lt;40):
+print(&#39;D Grade&#39;)
+Step 8:End Grade
